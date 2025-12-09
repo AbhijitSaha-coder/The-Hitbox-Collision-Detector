@@ -1,4 +1,4 @@
-Project 05: Hitbox Collision Detector (AABB Logic)
+Hitbox Collision Detector (AABB Logic)
 
 This project simulates a basic hitbox detection system commonly used in 2D shooter games. The objective is to determine whether a bullet fired by the player hits an enemy by checking if the bullet’s coordinates lie within the enemy’s rectangular hitbox. The logic used is Axis-Aligned Bounding Box (AABB) collision detection, one of the simplest and most widely used techniques in game development.
 
